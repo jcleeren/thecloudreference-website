@@ -3,7 +3,7 @@
 // Get one at https://web3forms.com (enter the email address that
 // should receive the messages; the key arrives by email).
 // ---------------------------------------------------------------
-const WEB3FORMS_ACCESS_KEY = "";
+const WEB3FORMS_ACCESS_KEY = "b5db8e4d-137c-4c74-af70-d26d38a1087e";
 
 // Mobile menu
 const toggle = document.querySelector(".menu-toggle");
